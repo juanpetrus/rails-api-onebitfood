@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  status: 1
+  delivery_tax: 1.5
+  sta: MyString
+
+two:
+  name: MyString
+  description: MyText
+  status: 1
+  delivery_tax: 1.5
+  sta: MyString
